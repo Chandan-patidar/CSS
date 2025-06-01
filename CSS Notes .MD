@@ -32,6 +32,7 @@ h1 (Selector) =The HTML elements that you want to style .
 font-size: (property) = the attributes you want to change(like font ,color,etc)
 30px (value ) = the specific style you want to apply to the property(like red, bold, etc)
 
+
 2. Color  Property
 
 Defination : The Css colour property  define the text colour or foreground color in an html element .
